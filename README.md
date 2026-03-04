@@ -88,7 +88,6 @@ This allowed a deeper understanding of model behavior under the same dataset con
 
 I am currently seeking opportunities in Machine Learning / AI Engineering roles.
 
-- LinkedIn: (Your LinkedIn URL)
-- GitHub: (Your GitHub URL)
+- LinkedIn: www.linkedin.com/in/samsure-rahman-02a43a279
 
 If you find this project useful, consider giving it a ⭐.
